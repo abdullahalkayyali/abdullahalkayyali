@@ -55,14 +55,6 @@ public-facing experience with member registration, account management, class
 scheduling, membership services, and an administrator dashboard.
 
 <p><strong>Technologies:</strong>&nbsp; <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP" /> <img align="center" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" /> <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" /> <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" /> <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=111111" alt="JavaScript" /> <img align="center" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" /></p>
-
-## How I work
-
-1. **Experiment openly**: Test ideas early and explore useful directions.
-2. **Break problems down**: Turn complexity into clear, manageable steps.
-3. **Refine the details**: Improve the decisions that shape the final experience.
-4. **Communicate throughout**: Share progress and use feedback to strengthen the work.
-
 ## Let's connect
 
 I'm open to learning opportunities, collaborations, and conversations about
